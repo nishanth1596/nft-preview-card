@@ -12,7 +12,7 @@ function Card() {
       </div>
 
       <div className={styles.cardDetails}>
-        <h2 className={styles.h2}>Equilibrium #3429</h2>
+        <h1 className={styles.h2}>Equilibrium #3429</h1>
         <p className={styles.p}>
           Our Equilibrium collection promotes balance and calm.
         </p>
