@@ -23,7 +23,7 @@ function Card() {
               <span>
                 <img className={styles.icon} src={ethIcon} alt="eth icon" />
               </span>
-              <p className={styles.caption}>0.041ETH</p>
+              <p className={styles.caption}>0.041 ETH</p>
             </li>
             <li className={styles.li}>
               <span>
