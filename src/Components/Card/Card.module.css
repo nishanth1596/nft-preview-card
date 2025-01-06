@@ -45,14 +45,14 @@
   padding-bottom:3.2rem;
 }
 
-.h2 {
+.h1 {
   color: white;
   font-size: var(--fs-heading);
   font-weight: var(--fw-heading);
   line-height: var(--lh-heading);
 }
 
-.h2:hover {
+.h1:hover {
   cursor: pointer;
   color: var(--cyan);
 }
