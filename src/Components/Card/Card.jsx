@@ -42,7 +42,7 @@ function Card() {
           <img src={avatar} alt="avatar" className={styles.avatarImg} />
           <p className={styles.avatarInfo}>
             Creation of
-            <span className={styles.avatarInfoSpan}>Jules Wyvern</span>
+            <span className={styles.avatarInfoSpan}> Jules Wyvern</span>
           </p>
         </div>
       </div>
