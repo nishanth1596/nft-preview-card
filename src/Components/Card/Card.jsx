@@ -14,7 +14,7 @@ function Card() {
       <div className={styles.cardDetails}>
         <h2 className={styles.h2}>Equilibrium #3429</h2>
         <p className={styles.p}>
-          Our equilibrium collection promotes balance and calm.
+          Our Equilibrium collection promotes balance and calm.
         </p>
 
         <div>
